@@ -1,0 +1,29 @@
+{
+    "user": {
+        "id": 12345,
+        "name": "John Doe",
+        "email": "johndoe@example.com"
+    },
+    "order": {
+        "id": 56789,
+        "date": "2022-12-31",
+        "total": 100.00,
+        "items": [
+            {
+                "id": 11,
+                "name": "item 1",
+                "price": 50.00
+            },
+            {
+                "id": 22,
+                "name": "item 2",
+                "price": 25.00
+            },
+            {
+                "id": 33,
+                "name": "item 3",
+                "price": 25.00
+            }
+        ]
+    }
+}
